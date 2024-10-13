@@ -1,0 +1,229 @@
+
+.pink{
+    color:pink;
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+}
+
+.greycol{
+    color:aquamarine;
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+}
+
+
+.red{
+    color:red;
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+}
+
+.green{
+    color: green;
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+}
+
+.yellow{
+    color: yellow;
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+}
+
+.tr0{
+    color:pink;
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Kaushan Script', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+    
+}
+.tr1{
+    color:rgb(85, 22, 32);
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Kaushan Script', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+
+}
+.tr2{
+    color:rgb(156, 50, 197);
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Kaushan Script', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+    
+}
+.tr3{
+    color:rgb(92, 129, 3);
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Kaushan Script', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+    
+}
+.tr4{
+    color:rgb(252, 225, 229);
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Kaushan Script', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+    
+}
+.tr5{
+    color:rgb(21, 0, 141);
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Kaushan Script', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+    
+}
+
+.tr6{
+    color:rgb(160, 149, 48);
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Kaushan Script', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+    
+}
+
+.tr7{
+    color:pink;
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Kaushan Script', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+    
+}
+
+.tr8{
+    color:rgb(255, 0, 0);
+    white-space: normal;
+    word-break: break-all; 
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-shadow: 2px 3px 7px #F38181, 5px 5px 5px #333333;
+    font-family: 'Kaushan Script', sans-serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase
+    
+}
